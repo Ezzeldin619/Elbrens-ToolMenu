@@ -1,0 +1,14 @@
+{
+	"name": "com.elbrens.elbrens-tools",
+	"version":"0.0.1",
+	"displayName": "Elbrens Tools",
+	"description": "A package must be in every unity project i create that just makes the setup easier",
+	"keywords": ["elbrens", "tools","custom"],
+	"dependencies":{
+	},
+	"author": {
+		"name": "Ezz eldin",
+		"email": "EnderDiscord@hotmail.com",
+		"url": "https://dsc.gg/elbrens-game-dev-community/"
+	}
+}
